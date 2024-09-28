@@ -13,28 +13,9 @@ template-version: "1.0"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
-# {{Title}}
-
-<!-- Main content of my thoughts really -->
-
-> [!Note]
-> `= this.lead`
-
-## Incredience
+# Рецепт
+## Ингредиенты
 
 
-## Preparation
+## Готовка
 
-
----
-## Questions
-<!-- What remains for you to consider? --> 
-- 
-
-## Terms
-<!-- Links to definition pages -->
-- 
-
-## References
-<!-- Links to pages not referenced in the content -->
-- 

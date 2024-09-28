@@ -8,25 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3ba54345fa66ffd",
+            "id": "85f87201e016a843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start here.md",
+                "file": "Рецепты/Крылышки Баффало.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "85f87201e016a843",
+            "id": "f51fa03d14f22c2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Горбуша в майонезе с лимонным соком.md",
+                "file": "README.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Горбуша в майонезе с лимонным соком.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Горбуша в майонезе с лимонным соком.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Горбуша в майонезе с лимонным соком.md"
+                "file": "README.md"
               }
             }
           }
@@ -156,14 +157,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85f87201e016a843",
+  "active": "f51fa03d14f22c2c",
   "lastOpenFiles": [
-    "2024-09-23.md",
-    "Recipes/Горбуша в майонезе с лимонным соком.md",
     "Start here.md",
-    "Recipes"
+    "Рецепты/Горбуша в майонезе с лимонным соком.md",
+    "README.md",
+    "Рецепты/Recipes.md",
+    "Visuals/Zettelkasten_Ontology.png",
+    "Visuals/Zettelkasten_LitMap_2024-08-04.png",
+    "Visuals/IMG_0843.png",
+    "Visuals/IMG_0319.PNG",
+    "Visuals/IMG_0099.PNG",
+    "Templates/Recipe Template.md",
+    "Рецепты/Свекольный салат.md",
+    "Рецепты/Тушеные овощи с тофу.md",
+    "Рецепты/Жареные кабачки.md",
+    "Рецепты/Крылышки Баффало.md",
+    "2024-09-23.md",
+    "Рецепты"
   ]
 }
