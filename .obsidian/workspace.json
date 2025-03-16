@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Мясо по-французски в духовке"
             }
+          },
+          {
+            "id": "13938eaf8650a00b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -216,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dd03031804a055c",
+  "active": "13938eaf8650a00b",
   "lastOpenFiles": [
     "Рецепты/Крылышки Баффало.md",
     "Рецепты/Мясо по-французски в сковороде.md",
